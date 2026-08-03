@@ -38,8 +38,13 @@ as such; those links will go live as I publish each solution.
 
 Focuses on fundamental operations, basic matrix math, and simple activation functions (e.g., matrix-vector dot products, standard transposes, or basic softmax implementations).
 
-- **#1**: Matrix-Vector Dot Product — **Linear Algebra** [problem](https://www.deep-ml.com/problems/1) · [solution](#) _(coming soon)_
 
+<details>
+<summary><strong>Show Easy problems</strong></summary>
+
+- **#1**: Matrix-Vector Dot Product — ***Linear Algebra*** - [problem](https://www.deep-ml.com/problems/1) · [solution](#) _(coming soon)_
+
+</details>
 
 ## Medium
 
