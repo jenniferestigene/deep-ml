@@ -43,6 +43,30 @@ Focuses on fundamental operations, basic matrix math, and simple activation func
 <summary><strong>Show Easy problems</strong></summary>
 
 - **#1**: Matrix-Vector Dot Product — ***Linear Algebra*** - [problem](https://www.deep-ml.com/problems/1) · [solution](#) _(coming soon)_
+- **#2**: Transpose of a Matrix — ***Linear Algebra*** - [problem](https://www.deep-ml.com/problems/2) · [solution](#) _(coming soon)_
+- **#3**: Reshape Matrix — ***Linear Algebra*** - [problem](https://www.deep-ml.com/problems/3) · [solution](#) _(coming soon)_
+- **#4**: Calculate Mean by Row or Column — ***Linear Algebra*** - [problem](https://www.deep-ml.com/problems/4) · [solution](#) _(coming soon)_
+- **#5**: Scalar Multiplication of a Matrix — ***Linear Algebra*** - [problem](https://www.deep-ml.com/problems/5) · [solution](#) _(coming soon)_
+- **#8**: Calculate 2x2 Matrix Inverse — ***Linear Algebra*** - [problem](https://www.deep-ml.com/problems/8) · [solution](#) _(coming soon)_
+- **#10**: Calculate Covariance Matrix — ***Statistics*** - [problem](https://www.deep-ml.com/problems/10) · [solution](#) _(coming soon)_
+- **#14**: Linear Regression Using Normal Equation — ***Machine Learning*** - [problem](https://www.deep-ml.com/problems/14) · [solution](#) _(coming soon)_
+- **#15**: Linear Regression Using Gradient Descent — ***Machine Learning*** - [problem](https://www.deep-ml.com/problems/15) · [solution](#) _(coming soon)_
+- **#16**: Feature Scaling Implementation — ***Machine Learning*** - [problem](https://www.deep-ml.com/problems/16) · [solution](#) _(coming soon)_
+- **#22**: Sigmoid Activation Function Understanding — ***Deep Learning*** - [problem](https://www.deep-ml.com/problems/22) · [solution](#) _(coming soon)_
+- **#23**: Softmax Activation Function Understanding — ***Deep Learning*** - [problem](https://www.deep-ml.com/problems/22) · [solution](#) _(coming soon)_
+- **#24**: Single Neuron — ***Deep Learning*** - [problem](https://www.deep-ml.com/problems/24) · [solution](#) _(coming soon)_
+- **#27**: Transformation Matrix from Basis B to C — ***Linear Algebra*** - [problem](https://www.deep-ml.com/problems/27) · [solution](#) _(coming soon)_
+- **#29**: Random Shuffle of Dataset — ***Machine Learning*** - [problem](https://www.deep-ml.com/problems/29) · [solution](#) _(coming soon)_
+
+
+
+
+
+
+
+
+
+
 
 </details>
 
