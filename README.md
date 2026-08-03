@@ -57,6 +57,31 @@ Focuses on fundamental operations, basic matrix math, and simple activation func
 - **#24**: Single Neuron — ***Deep Learning*** - [problem](https://www.deep-ml.com/problems/24) · [solution](#) _(coming soon)_
 - **#27**: Transformation Matrix from Basis B to C — ***Linear Algebra*** - [problem](https://www.deep-ml.com/problems/27) · [solution](#) _(coming soon)_
 - **#29**: Random Shuffle of Dataset — ***Machine Learning*** - [problem](https://www.deep-ml.com/problems/29) · [solution](#) _(coming soon)_
+- **#30**: Batch Iterator for Dataset — ***Machine Learning*** - [problem](https://www.deep-ml.com/problems/30) · [solution](#) _(coming soon)_
+- **#34**: One-Hot Encoding of Nominal Values — ***Machine Learning*** - [problem](https://www.deep-ml.com/problems/34) · [solution](#) _(coming soon)_
+- **#35**: Convert Vector to Diagonal Matrix — ***Linear Algebra*** - [problem](https://www.deep-ml.com/problems/35) · [solution](#) _(coming soon)_
+- **#36**: Calculate Accuracy Score — ***Machine Learning*** - [problem](https://www.deep-ml.com/problems/36) · [solution](#) _(coming soon)_
+- **#39**: Implementation of Log Softmax Function — ***Deep Learning*** - [problem](https://www.deep-ml.com/problems/39) · [solution](#) _(coming soon)_
+- **#42**: Implement ReLU Activation Function — ***Deep Learning*** - [problem](https://www.deep-ml.com/problems/42) · [solution](#) _(coming soon)_
+- **#43**: Implement Ridge Regression Loss Function — ***Machine Learning*** - [problem](https://www.deep-ml.com/problems/43) · [solution](#) _(coming soon)_
+- **#44**: Leaky ReLU Activation Function — ***Deep Learning*** - [problem](https://www.deep-ml.com/problems/44) · [solution](#) _(coming soon)_
+- **#45**: Linear Kernel Function — ***Machine Learning*** - [problem](https://www.deep-ml.com/problems/45) · [solution](#) _(coming soon)_
+- **#46**: Implement Precision Metric — ***Machine Learning*** - [problem](https://www.deep-ml.com/problems/46) · [solution](#) _(coming soon)_
+- **#52**: Implement Recall Metric in Binary Classification — ***Machine Learning*** - [problem](https://www.deep-ml.com/problems/52) · [solution](#) _(coming soon)_
+- **#56**: KL Divergence Between Two Normal Distribution — ***Deep Learning*** - [problem](https://www.deep-ml.com/problems/56) · [solution](#) _(coming soon)_
+- **#61**: Implement F-Score Calculation for Binary Classification— ***Machine Learning*** - [problem](https://www.deep-ml.com/problems/61) · [solution](#) _(coming soon)_
+- **#64**: Implement Gini Impurity Calculation for a Set of Classes — ***Machine Learning*** - [problem](https://www.deep-ml.com/problems/64) · [solution](#) _(coming soon)_
+- **#65**: Implement Compressed Row Sparse Matrix (CSR) Format Conversion — ***Linear Algebra*** - [problem](https://www.deep-ml.com/problems/65) · [solution](#) _(coming soon)_
+
+
+
+
+
+
+
+
+
+
 
 
 
